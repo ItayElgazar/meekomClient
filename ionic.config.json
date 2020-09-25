@@ -1,0 +1,7 @@
+{
+  "name": "mekoomClient",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
